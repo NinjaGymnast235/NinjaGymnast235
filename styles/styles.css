@@ -1,0 +1,72 @@
+body {
+  font-size: 12px;
+  font-family: sans-serif;
+  background: #2e5377;
+}
+h1 {
+  text-align: center;
+  margin: 40px 0 40px;
+  text-align: center;
+  font-size: 30px;
+  color: #ecf0f1;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: "Cherry Swash", cursive;
+}
+
+h2 {
+  /* text-align: center; */
+  font-size: 25px;
+  color: #ecf0f1;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: "Cherry Swash", cursive;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 15px;
+  color: aliceblue;
+  text-align: center;
+}
+
+p {
+  max-width: 700px;
+  min-width: 100px;
+  text-align: center;
+  color: #ecf0f1;
+  font-family: "Serif";
+  font-size: 22px;
+  padding-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: #5876db;
+}
+
+span {
+  color: red;
+  text-align: left;
+  align-content: left;
+  align-self: left;
+}
+
+img {
+  justify-content: center;
+  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*------------------- game1.html */
+#game-board {
+  background-color: #1d79af;
+  width: 529px;
+  height: 800px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  border-radius: 20px;
+}
